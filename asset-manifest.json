@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cricsco-live-cricket-score/static/css/main.0cb58dd6.chunk.css",
+    "main.js": "/Cricsco-live-cricket-score/static/js/main.eff62a3c.chunk.js",
+    "main.js.map": "/Cricsco-live-cricket-score/static/js/main.eff62a3c.chunk.js.map",
+    "runtime-main.js": "/Cricsco-live-cricket-score/static/js/runtime-main.c87f012e.js",
+    "runtime-main.js.map": "/Cricsco-live-cricket-score/static/js/runtime-main.c87f012e.js.map",
+    "static/js/2.9d8af895.chunk.js": "/Cricsco-live-cricket-score/static/js/2.9d8af895.chunk.js",
+    "static/js/2.9d8af895.chunk.js.map": "/Cricsco-live-cricket-score/static/js/2.9d8af895.chunk.js.map",
+    "static/js/3.31505f01.chunk.js": "/Cricsco-live-cricket-score/static/js/3.31505f01.chunk.js",
+    "static/js/3.31505f01.chunk.js.map": "/Cricsco-live-cricket-score/static/js/3.31505f01.chunk.js.map",
+    "index.html": "/Cricsco-live-cricket-score/index.html",
+    "static/css/main.0cb58dd6.chunk.css.map": "/Cricsco-live-cricket-score/static/css/main.0cb58dd6.chunk.css.map",
+    "static/js/2.9d8af895.chunk.js.LICENSE.txt": "/Cricsco-live-cricket-score/static/js/2.9d8af895.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c87f012e.js",
+    "static/js/2.9d8af895.chunk.js",
+    "static/css/main.0cb58dd6.chunk.css",
+    "static/js/main.eff62a3c.chunk.js"
+  ]
+}
